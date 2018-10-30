@@ -6,8 +6,22 @@
   "repository": "git@github.com:poloagustin/rxjs-adv-workshop-es.git",
   "author": "Agustin Polo <poloagustin@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "core-js": "^2.5.7",
     "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "@types/core-js": "^2.5.0",
+    "html-webpack-plugin": "^3.2.0",
+    "prettier": "^1.14.3",
+    "ts-loader": "^5.2.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   }
 }
