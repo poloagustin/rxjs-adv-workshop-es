@@ -1,0 +1,13 @@
+{
+  "name": "rxjs-adv-workshop-es",
+  "version": "0.0.0",
+  "description": "Workshop de RXJS Avanzado (Español)",
+  "main": "dist/index.js",
+  "repository": "git@github.com:poloagustin/rxjs-adv-workshop-es.git",
+  "author": "Agustin Polo <poloagustin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "^2.5.7",
+    "rxjs": "^6.3.3"
+  }
+}
